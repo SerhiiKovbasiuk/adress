@@ -3,7 +3,6 @@ public class adress {
 	
 	public static void main(String[] args) {
 		System.out.println("europe");
-		System.out.println("corp");
 		System.out.println("#    #");
 		System.out.println("#    #");
 		System.out.println("######");
